@@ -1,3 +1,3 @@
 # first-repo
 ## Sai Kiran Reddy <br>
-> sun raises in east
+> sun sets in the west
